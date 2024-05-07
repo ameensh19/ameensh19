@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ameensh19
 - 👀 I’m interested in Cyber Security Analyst/GRC
-- 🌱 Recently I Graduate a professional and intensive course in Cyber Security Analyst, INT College with honors (98.18) 
+- 🌱 Recently I Graduate a professional and intensive course in Cyber Security Analyst, INT College
 - 📫 How to reach me ameen.shker@gmail.com
 
 <!---
